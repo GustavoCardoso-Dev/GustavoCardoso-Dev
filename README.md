@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Cardoso 😁
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavocardoso.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocardoso-dev/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCardoso-Dev&show_icons=true&theme=tokyonight)
